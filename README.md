@@ -59,7 +59,7 @@ Chapter 5 provides a basic Vessel modeling example. It introduces common modelin
 ### Chapter 6: Pattern Mining and Clustering
 
 Chapter 6 focuses on discovering movement patterns from vessel trajectory data. The example demonstrates how to extract trajectory features, measure similarity, identify representative traffic patterns, and apply clustering methods to maritime movement analysis. 
-!<p align="center">
+<p align="center">
   <img src="figs/Cluster_Critical_points10.png" width="400">
 </p>
 
@@ -67,7 +67,7 @@ Chapter 6 focuses on discovering movement patterns from vessel trajectory data. 
 
 Chapter 7 presents a deep-learning example for vessel trajectory prediction. It demonstrates how historical vessel movement information can be used to train sequence-based models and predict future vessel states or positions.
 
-!<p align="center">
+<p align="center">
   <img src="figs/traj30_lstm_delta.png" width="500">
 </p>
 
@@ -83,9 +83,16 @@ Chapter 9 demonstrates how AIS data and environmental information can be used to
 
 Chapter 10 introduces a deep-learning workflow for regional ocean-wave modeling. The example demonstrates how gridded oceanographic and meteorological data can be processed and used for wave-related prediction tasks.
 
+<p align="center">
+  <img src="figs/swh.png" width="700">
+</p>
+
 ### Chapter 11: Maritime Traffic-Flow Forecasting Using Graph Neural Networks
 
 Chapter 11 focuses on graph-based maritime traffic-flow forecasting. The example demonstrates how maritime traffic can be represented as a graph and how graph neural networks can be used to model spatial-temporal traffic-flow patterns.
+<p align="center">
+  <img src="figs/flow.png" width="700">
+</p>
 
 ### Chapter 12: Vessel Estimated Time of Arrival Prediction Using Machine Learning
 
