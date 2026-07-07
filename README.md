@@ -4,6 +4,10 @@ This repository provides the teaching code and example datasets for **Data Scien
 
 The examples are mainly provided as Jupyter notebooks. They cover common data-science tasks in maritime transportation, including AIS data processing, trajectory analysis, clustering, prediction, anomaly detection, propulsion-power estimation, ocean-wave modeling, graph-based traffic-flow forecasting, and ETA prediction.
 
+If you use this repository, the teaching code, or the example datasets in your research or teaching, please cite the book as follows:
+
+Zhao, L. (2026). *Data Science for Maritime Transportation*. Springer.
+
 ## Recommended Python Version
 
 The recommended Python version is:
@@ -104,3 +108,13 @@ Chapter 11 focuses on graph-based maritime traffic-flow forecasting. The example
 ### Chapter 12: Vessel Estimated Time of Arrival Prediction Using Machine Learning
 
 Chapter 12 presents a machine-learning example for vessel estimated time of arrival prediction. The example covers feature preparation, model training, prediction, and evaluation for ETA-related maritime decision-support applications.
+
+## License
+
+This repository is released for academic, teaching, and research use. Unless otherwise stated, the source code is provided under the MIT License.
+
+Copyright (c) 2026 Liang Zhao
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the condition that the copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of the software.
