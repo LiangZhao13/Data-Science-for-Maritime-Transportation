@@ -74,10 +74,17 @@ Chapter 7 presents a deep-learning example for vessel trajectory prediction. It 
 ### Chapter 8: Vessel Behavior Anomaly Detection Using Deep Learning
 
 Chapter 8 focuses on anomaly detection of vessel behavior. The example uses training and testing AIS datasets to demonstrate reconstruction-based deep-learning methods for identifying abnormal vessel movement patterns.
+<p align="center">
+  <img src="figs/anomaly_traj_73 (1)" width="400">
+</p>
 
 ### Chapter 9: Vessel Propulsion-Power Estimation with AIS Data
 
 Chapter 9 demonstrates how AIS data and environmental information can be used to estimate vessel propulsion power. The example includes resistance-related calculations, environmental effects, and power estimation for teaching purposes.
+<p align="center">
+  <img src="figs/trajectory_power_distribution.png" width="400">
+</p>
+
 
 ### Chapter 10: Regional Ocean-Wave Modeling Using Deep Learning
 
