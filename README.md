@@ -52,13 +52,13 @@ Chapter 2 focuses on AIS data handling. The example demonstrates how to process 
 
 Chapter 3 introduces trajectory-oriented analysis based on maritime movement data. The example includes trajectory organization, time-series processing, and preparation of vessel tracks for later tasks such as clustering, prediction, and behavioral analysis.
 
-### Chapter 5: Fundamental Machine-Learning Modeling
+### Chapter 5: Fundamental VesseL Modeling
 
-Chapter 5 provides a basic machine-learning example for maritime transportation data. It introduces common modeling steps, including feature preparation, model training, prediction, and performance evaluation, serving as a foundation for the more advanced chapters.
+Chapter 5 provides a basic Vessel modeling example. It introduces common modeling steps, including 3 DOF model, control design, state estimator, and environment disturbances, serving as a foundation for the more advanced chapters.
 
 ### Chapter 6: Pattern Mining and Clustering
 
-Chapter 6 focuses on discovering movement patterns from vessel trajectory data. The example demonstrates how to extract trajectory features, measure similarity, identify representative traffic patterns, and apply clustering methods to maritime movement analysis.
+Chapter 6 focuses on discovering movement patterns from vessel trajectory data. The example demonstrates how to extract trajectory features, measure similarity, identify representative traffic patterns, and apply clustering methods to maritime movement analysis. ![Clustering](figs/Cluster_Critical_points10.png)
 
 ### Chapter 7: Vessel Trajectory Prediction Using Deep Learning
 
