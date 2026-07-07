@@ -58,13 +58,18 @@ Chapter 5 provides a basic Vessel modeling example. It introduces common modelin
 
 ### Chapter 6: Pattern Mining and Clustering
 
-Chapter 6 focuses on discovering movement patterns from vessel trajectory data. The example demonstrates how to extract trajectory features, measure similarity, identify representative traffic patterns, and apply clustering methods to maritime movement analysis. !<p align="center">
+Chapter 6 focuses on discovering movement patterns from vessel trajectory data. The example demonstrates how to extract trajectory features, measure similarity, identify representative traffic patterns, and apply clustering methods to maritime movement analysis. 
+!<p align="center">
   <img src="figs/Cluster_Critical_points10.png" width="400">
 </p>
 
 ### Chapter 7: Vessel Trajectory Prediction Using Deep Learning
 
 Chapter 7 presents a deep-learning example for vessel trajectory prediction. It demonstrates how historical vessel movement information can be used to train sequence-based models and predict future vessel states or positions.
+
+!<p align="center">
+  <img src="figs/traj30_lstm_delta.png" width="500">
+</p>
 
 ### Chapter 8: Vessel Behavior Anomaly Detection Using Deep Learning
 
