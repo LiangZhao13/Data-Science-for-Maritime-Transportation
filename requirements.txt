@@ -1,0 +1,48 @@
+# Clean requirements for the teaching code examples
+# Recommended Python version: 3.10 or later
+
+# Core scientific computing
+numpy>=1.26
+pandas>=2.0
+scipy>=1.10
+openpyxl>=3.1
+
+# Machine learning and deep learning
+scikit-learn>=1.3
+torch>=2.0
+sympy>=1.12
+
+# Reinforcement learning
+gymnasium>=0.29
+stable-baselines3>=2.3
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+pillow>=10.0
+
+# Data processing and file formats
+xarray>=2023.1
+netCDF4>=1.6
+h5py>=3.8
+zarr>=2.16
+dask>=2023.1
+pyarrow>=12.0
+PyYAML>=6.0
+
+# Geospatial and ocean-data tools
+cartopy>=0.22
+shapely>=2.0
+pyproj>=3.5
+copernicusmarine>=1.0
+
+# Graphs, time-series distance, and utilities
+networkx>=3.0
+fastdtw>=0.3.4
+tqdm>=4.66
+requests>=2.31
+joblib>=1.3
+
+# Notebook support
+ipykernel>=6.0
+jupyterlab>=4.0
