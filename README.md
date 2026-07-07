@@ -6,7 +6,20 @@ The examples are mainly provided as Jupyter notebooks. They cover common data-sc
 
 If you use this repository, the teaching code, or the example datasets in your research or teaching, please cite the book as follows:
 
-Zhao, L. (2026). *Data Science for Maritime Transportation*. Springer.
+```text
+Zhao, L. (2026). Data Science for Maritime Transportation. Springer.
+```
+
+BibTeX format:
+
+```bibtex
+@book{zhao2026data,
+  author    = {Zhao, Liang},
+  title     = {Data Science for Maritime Transportation},
+  year      = {2026},
+  publisher = {Springer}
+}
+```
 
 ## Recommended Python Version
 
