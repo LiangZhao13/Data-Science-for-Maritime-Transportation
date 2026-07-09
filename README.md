@@ -123,7 +123,7 @@ Chapter 11 focuses on graph-based maritime traffic-flow forecasting. The example
 Chapter 12 presents a machine-learning example for vessel estimated time of arrival prediction. The example covers feature preparation, model training, prediction, and evaluation for ETA-related maritime decision-support applications.
 
 ## Note
-The dataset for Chapter 10 is too large for GitHub. The readers can access the dataset combined_wind_wave_2023.nc and combined_wind_wave_2024.nc in the Kaggle link [www.kaggle.com]
+The dataset for Chapter 10 is too large for GitHub. The readers can access the dataset combined_wind_wave_2023.nc and combined_wind_wave_2024.nc in the Kaggle link [[www.kaggle.com](https://www.kaggle.com/datasets/liamzhao13/metocean-data-for-chapter-10)]
 
 ## License
 
